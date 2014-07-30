@@ -1,6 +1,9 @@
 Changelog
 =========
 
+__1.0.0__
+
+* Release stable version
 
 __0.1.0__
 
