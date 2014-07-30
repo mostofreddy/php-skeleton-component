@@ -1,12 +1,15 @@
 PHP Skeleton - Component
 ========================
 
+[![Build Status](https://travis-ci.org/mostofreddy/php-skeleton-component.svg?branch=master)](https://travis-ci.org/mostofreddy/php-skeleton-component)
+
+
 Base structure for a PHP Component
 
 Version
 =======
 
-__0.1.0__
+__1.0.0__
 
 Install
 =======
