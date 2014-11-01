@@ -1,6 +1,11 @@
 Changelog
 =========
 
+__1.0.1__
+
+* Add new options in gitignore
+* Add doc directory
+
 __1.0.0__
 
 * Release stable version

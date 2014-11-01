@@ -1,7 +1,7 @@
 {
     "name": "phpskeleton/component",
     "description": "Base structure for a PHP Component",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": ["skeleton", "base", "standard"],
     "homepage": "https://github.com/mostofreddy/php-skeleton-component",
     "type": "library",
