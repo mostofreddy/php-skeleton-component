@@ -12,7 +12,7 @@ Base structure for a PHP Component
 Version
 =======
 
-__1.0.0__
+__1.0.1__
 
 Install
 =======
@@ -25,11 +25,6 @@ Install
 ### Via composer
 
     composer create-project phpskeleton/component path/to/install
-
-Testing
-=======
-
-    php vendor/bin/phpunit -c tests/phpunit.xml 
 
 License
 =======
