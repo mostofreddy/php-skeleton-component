@@ -9,7 +9,8 @@ php:
 before_script:
   - composer self-update
   - composer install
+  - cp phpcs.ruleset.xml.dist phpcs.ruleset.xml
 
 script:
-  - php vendor/bin/phpcs --standard=psr2 src/
-  - php vendor/bin/phpunit -c tests/phpunit.xml
+  - php vendor/bin/phpcs --standard=phpcs.ruleset.xml src/
+  - php vendor/bin/phpunit

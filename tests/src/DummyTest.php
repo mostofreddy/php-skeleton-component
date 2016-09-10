@@ -36,7 +36,7 @@ class DummyTest extends PHPUnit_Framework_TestCase
      */
     public function testSayHello()
     {
-        $aux = new phpskeleton\component\Dummy();
+        $aux = new Mostofreddy\PhpSkeletonComponent\Dummy();
         $this->assertEquals('Hello!', $aux->sayHello());
     }
 }
