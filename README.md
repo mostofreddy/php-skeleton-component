@@ -12,7 +12,7 @@ Base structure for a PHP Component
 Version
 =======
 
-__1.1.0__
+__1.1.1__
 
 Documentation
 =======

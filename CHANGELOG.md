@@ -1,6 +1,10 @@
 Changelog
 =========
 
+__1.1.1__
+
+* Update dependency php version
+
 __1.1.0__
 
 * Change .gitignore
