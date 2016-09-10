@@ -4,6 +4,7 @@ Changelog
 __1.1.1__
 
 * Update dependency php version
+* Update readme images
 
 __1.1.0__
 
