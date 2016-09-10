@@ -1,6 +1,14 @@
 Changelog
 =========
 
+__1.1.0__
+
+* Change .gitignore
+* Update PHPUnit configuration
+* Update PHP CS configuration
+* Change component name
+* Add documentation
+
 __1.0.1__
 
 * Add new options in gitignore

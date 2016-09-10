@@ -12,26 +12,19 @@ Base structure for a PHP Component
 Version
 =======
 
-__1.0.1__
+__1.1.0__
 
-Install
+Documentation
 =======
 
-### Requirements
+View [doc](doc/README.md)
 
-* PHP 5.3+
-* [Composer](http://getcomposer.org)
+Changelog
+--------
 
-### Via composer
-
-    composer create-project phpskeleton/component path/to/install
+View [CHANGELOG.md](CHANGELOG.md)
 
 License
 =======
 
-The MIT License (MIT). Please see License File for more information.
-
-How is it used?
-===============
-
-Pending...
+The __MIT License (MIT)__. Please see [License File](LICENSE.md) for more information.
