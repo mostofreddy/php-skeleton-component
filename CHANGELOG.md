@@ -8,6 +8,7 @@ __1.1.0__
 * Update PHP CS configuration
 * Change component name
 * Add documentation
+* Update travis configuration
 
 __1.0.1__
 
