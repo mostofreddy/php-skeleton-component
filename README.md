@@ -6,18 +6,24 @@
 [![Latest Unstable Version](https://poser.pugx.org/mostofreddy/phpskeletoncomponent/v/unstable.svg)](https://packagist.org/mostofreddy/phpskeletoncomponent)
 [![License](https://poser.pugx.org/mostofreddy/phpskeletoncomponent/license.svg)](https://packagist.org/packages/mostofreddy/phpskeletoncomponent)
 
-Base structure for a PHP Component
+Estructura básica para un componente PHP
 
-# Version
+# Versión
 
 __1.2.0__
 
 # Changelog
 
-View [CHANGELOG.md](CHANGELOG.md)
+Ver [CHANGELOG.md](CHANGELOG.md)
 
 # License
 
-The __MIT License (MIT)__. Please see [License File](LICENSE.md) for more information.
+__MIT License (MIT)__. Ver [License File](LICENSE.md) por mas información.
 
+# Documentación
 
+__Uso__
+
+```
+$ composer create-project mostofreddy/phpskeletoncomponent my-component 1.2.0
+```
