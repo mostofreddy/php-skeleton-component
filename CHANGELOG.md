@@ -1,5 +1,18 @@
-Changelog
-=========
+# Changelog
+
+__1.2.0__
+
+
+* Elimina contenido de directorio doc
+* Renombra directorio doc a docs
+* Elimina contenido de directorio src
+* Elimina contenido de directorio tests/src
+* Actualiza travis.yml
+* Renombra archivo phpcs.ruleset.xml.dist a ruleset.xml.dist
+* Actualiza a phpunit 6.*
+* Actualiza a phpcs 3.*
+* Actualiza gitignore
+* Actualiza composer.json
 
 __1.1.1__
 

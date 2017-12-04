@@ -1,5 +1,4 @@
-PHP Skeleton - Component
-========================
+# PHP Skeleton - Component
 
 [![Build Status](https://travis-ci.org/mostofreddy/php-skeleton-component.svg?branch=master)](https://travis-ci.org/mostofreddy/php-skeleton-component)
 [![Latest Stable Version](https://poser.pugx.org/mostofreddy/phpskeletoncomponent/v/stable.svg)](https://packagist.org/packages/mostofreddy/phpskeletoncomponent)
@@ -9,22 +8,16 @@ PHP Skeleton - Component
 
 Base structure for a PHP Component
 
-Version
-=======
+# Version
 
-__1.1.1__
+__1.2.0__
 
-Documentation
-=======
-
-View [doc](doc/README.md)
-
-Changelog
---------
+# Changelog
 
 View [CHANGELOG.md](CHANGELOG.md)
 
-License
-=======
+# License
 
 The __MIT License (MIT)__. Please see [License File](LICENSE.md) for more information.
+
+

@@ -1,4 +1,0 @@
-Crear aplicaciones
-==================
-
-pending
